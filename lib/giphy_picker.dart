@@ -29,7 +29,7 @@ class GiphyPicker {
     bool showPreviewPage = true,
     GiphyDecorator? decorator,
     bool fullScreenDialog = true,
-    String searchText = 'Search GIPHY and Tenor Test',
+    String searchText = 'Search GIPHY and TENOR Test',
     GiphyPreviewType? previewType,
   }) async {
     GiphyGif? result;
